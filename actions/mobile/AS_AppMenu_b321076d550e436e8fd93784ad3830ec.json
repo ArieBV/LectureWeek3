@@ -1,0 +1,15 @@
+{
+    "AS_AppMenu_b321076d550e436e8fd93784ad3830ec": {
+        "id": "AS_AppMenu_b321076d550e436e8fd93784ad3830ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "AppHomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b343a398952b4828b6f18285c53a5489"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

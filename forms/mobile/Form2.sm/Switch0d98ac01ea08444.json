@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSwitch",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "155dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6a9804bcc33481e941d28a49b050dbe",
+    "_top_": {
+        "type": "string",
+        "value": "344dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "Switch0d98ac01ea08444",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "g9c449646e0c45ae91c5de661293a84b",
+    "leftsidetext": "ON",
+    "name": "kony.ui.Switch",
+    "onslide": "AS_Switch_a327521b45544770996fbca3456d7a3e",
+    "osPlatform": "iphone",
+    "osVersion": "iOS7",
+    "parent": "Form2",
+    "pf": "Form2",
+    "rightsidetext": "OFF",
+    "selectedindex": 0,
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "zindex": 2
+}

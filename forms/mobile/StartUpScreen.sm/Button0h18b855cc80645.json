@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "187dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "41dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0679989aef54e24960f29524e297f05",
+    "_text_": "*Logo*",
+    "_top_": {
+        "type": "string",
+        "value": "245dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "210dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s5345ea883244288bad5fed87191eabc"
+    },
+    "displaytext": true,
+    "id": "Button0h18b855cc80645",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "i4c72dbbca1646a5b15410e881079f0f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ef271a2fdbe743a4930c3fcf9b8df1fc",
+    "parent": "StartUpScreen",
+    "pf": "StartUpScreen",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,210 @@
+{
+    "APPLICATION_THEME": "default",
+    "appaddrkey": "",
+    "appidkey": "LectureWeek3",
+    "appnamekey": "LectureWeek3",
+    "apppackagekey": "",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "category": "app",
+    "createdVizVersion": "8.0.1",
+    "createdgaversion": "8.0.1",
+    "currentgaversion": "8.0.1",
+    "enableCustomData": false,
+    "isDpScaleFactor": true,
+    "isMVC": true,
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "konyVizVersion": "8.0.1",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "project.type": "js",
+    "project_version": "sprint29",
+    "referenceWidth": "375",
+    "startupformkey": "b9d2c2a449cd45aba5a7c92341b496f3",
+    "vendornamekey": "KonyLabs",
+    "winmobileguidkey": "",
+    "defaulttheme": "defaultTheme",
+    "nativeContainerProperties": {
+        "isModified": true,
+        "isEnableJSContainer": false,
+        "isEnableJSContainerAndroid": false,
+        "isEnableJSContaineriOS": false
+    },
+    "appmenu": {
+        "mobile": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Light",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "onClick": null,
+                    "kuid": "g791bb0c3663479ab0b11286cec179be"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Bicycle",
+                    "icon": {
+                        "default": "navigate_arrow.png"
+                    },
+                    "onClick": "AS_AppMenu_c974ad5a609e495882b08c538abf4000",
+                    "kuid": "e83aa461224e4392850d47ba45cf945f"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Strobe",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "onClick": null,
+                    "kuid": "aa624138b3ad46c6a709babeac01faec"
+                }
+            ]
+        },
+        "tablet": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Item 1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "kuid": "d4c6d8df7c5c4850b9eb807c14280ec8",
+                    "windows8": {
+                        "position": "BOTTOM_LEFT",
+                        "appBarButtonStyle": "No Style"
+                    }
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Item 2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "kuid": "a1c16e47311a49efafbf8e7615947e76",
+                    "windows8": {
+                        "position": "BOTTOM_LEFT",
+                        "appBarButtonStyle": "No Style"
+                    }
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Item 3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "kuid": "a10ce07e1b344a71a8fd556d39161824",
+                    "windows8": {
+                        "position": "BOTTOM_LEFT",
+                        "appBarButtonStyle": "No Style"
+                    }
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "title": "Item 4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "kuid": "j420247d52ca45fcb00fb8a103a54816",
+                    "windows8": {
+                        "position": "BOTTOM_LEFT",
+                        "appBarButtonStyle": "No Style"
+                    }
+                }
+            ]
+        },
+        "desktop": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Item 1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "kuid": "bb1ccfaba2c24f43a3f71665dbca1d2d"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Item 2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "kuid": "dc42a3d6a07a4069b7bb378673dd2f78"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Item 3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "kuid": "j91a9a82edaf4e61b163ca0c4b931cdb"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "title": "Item 4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "kuid": "jb957cae270742cd8e4da3cfae273c79"
+                }
+            ]
+        },
+        "skin": "",
+        "focusSkin": "",
+        "focusskin": "",
+        "osVersion": "iOS7",
+        "osPlatform": "",
+        "wType": "Appmenu",
+        "context": {
+            "platform": "iphone",
+            "channel": "mobile"
+        }
+    },
+    "watchStartUpFormKey": "",
+    "accountCloudGuid": "d5728c67-c06c-4051-9912-713f11557ff3",
+    "projectCloudGuid": "454ba924-203c-4b28-9d36-3f73647fe894",
+    "prototype": {
+        "createdOn": "2017-11-27T08:32:28.859Z",
+        "createdById": "b834e3e5-7d81-49d0-b264-fe7720e2bec9",
+        "createdBy": "Bodi Fok",
+        "shareGuid": "DKB2H",
+        "resourceId": "f8c6c308-b76d-4796-b3ab-a47e7d8c58d0",
+        "PublishMode": "protected"
+    },
+    "wap_ip_fontsize": "12",
+    "wap_android240_fontsize": "10",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "13",
+    "wap_android400_fontsize": "14",
+    "wap_android440_fontsize": "15",
+    "wap_android480_fontsize": "16",
+    "wap_android640_fontsize": "19",
+    "wap_spaipad_fontsize": "17",
+    "wap_spaandroidtab_fontsize": "17",
+    "wap_spaandroidtabldpi_fontsize": "17",
+    "wap_spaandroidtabmdpi_fontsize": "14",
+    "wap_spaandroidtabhdpi_fontsize": "16",
+    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "wap_winphone320_fontsize": "12",
+    "wap_winphone480_fontsize": "12",
+    "wap_spawindowstab_fontsize": "17",
+    "wap_bb240_fontsize": "12",
+    "wap_bb320_fontsize": "15",
+    "wap_bb360_fontsize": "13",
+    "wap_bb400_fontsize": "14",
+    "wap_bb440_fontsize": "15",
+    "wap_bb480_fontsize": "17",
+    "ipadlandscapemodekey": "portrait",
+    "supportedorientations": [
+        "portrait"
+    ],
+    "desktopwebbasefontsize": "16",
+    "desktopwebwidthoption": "percentage",
+    "desktopwebaligenmentoption": "Left",
+    "tabletstartupformkey": ""
+}

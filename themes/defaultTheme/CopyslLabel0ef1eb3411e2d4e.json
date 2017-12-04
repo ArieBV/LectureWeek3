@@ -1,0 +1,64 @@
+{
+  "android": {
+    "font_name": "Helvetica"
+  },
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "Helvetica"
+  },
+  "font_color": "c7c7c7ff",
+  "font_name": "Helvetica",
+  "font_size": 215,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica"
+  },
+  "iphone": {
+    "font_name": "Courier New Italic"
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "FontAwesome"
+  },
+  "kuid": "s3be3b16e1384b8fb43eb92ca4fb14b3",
+  "spaan": {
+    "font_name": "Courier New"
+  },
+  "spaandroidtablet": {
+    "font_name": "Helvetica"
+  },
+  "spabb": {
+    "font_name": "Courier New"
+  },
+  "spaip": {
+    "font_name": "Courier New"
+  },
+  "spaipad": {
+    "font_name": "Helvetica"
+  },
+  "spawindowstablet": {
+    "font_name": "Helvetica"
+  },
+  "spawinphone8": {
+    "font_name": "Courier New"
+  },
+  "tabrcandroid": {
+    "font_name": "Helvetica"
+  },
+  "wType": "Label",
+  "watchos": {
+    "font_name": "Helvetica"
+  },
+  "windows8": {
+    "font_name": "FontAwesome"
+  },
+  "winphone8": {
+    "font_name": "FontAwesome"
+  }
+}

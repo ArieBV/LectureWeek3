@@ -1,0 +1,23 @@
+{
+    "AS_AppMenu_c974ad5a609e495882b08c538abf4000": {
+        "id": "AS_AppMenu_c974ad5a609e495882b08c538abf4000",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "AppHomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b343a398952b4828b6f18285c53a5489"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_MAPPING__g8ee3b40774649dcaf204ee7d7286ae3",
+            "type": "ADD_MAPPING",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

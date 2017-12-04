@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa89d0564f6e4f73931420817545b5f1",
+    "_text_": "Adaptive Flashlight",
+    "_top_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.96%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "RichText0d1dd85c1cee948",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d9ff8f43df6f462ab2188ad016207fc1",
+    "name": "kony.ui.RichText",
+    "parent": "StartUpScreen",
+    "pf": "StartUpScreen",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}
